@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |s|
   s.name        = 'hashedrecord'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.summary     = 'In memory collection filtering'
-  s.description = 'Hashed access to records with ActiveRecord like interface'
+  s.description = 'Hashed access to in-memory records with ActiveRecord like interface'
   s.authors     = ['Serg Tyatin']
   s.email       = 'hashedrecord@2rba.com'
   s.files       = ['lib/hashedrecord.rb']
