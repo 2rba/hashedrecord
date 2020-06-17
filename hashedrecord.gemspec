@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'hashedrecord'
-  s.version     = '1.0.1'
+  s.version     = '1.1.0'
   s.summary     = 'In memory collection filtering'
   s.description = 'Hashed access to in-memory records with ActiveRecord like interface'
   s.authors     = ['Serg Tyatin']
